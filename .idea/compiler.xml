@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tacocloud-restclient (1)" />
+        <module name="tacocloud (2)" />
+        <module name="tacocloud-domain (3)" />
+        <module name="rsocket-fireandforget-client" />
+        <module name="tacocloud-kitchen (1)" />
+        <module name="tacocloud-ui (6)" />
+        <module name="tacocloud-security (1)" />
+        <module name="rsocket-reqres-server" />
+        <module name="tacocloud-ui-mongodb" />
+        <module name="tacocloud-messaging-jms (4)" />
+        <module name="tacocloud-admin" />
+        <module name="tacocloud-api (4)" />
+        <module name="tacocloud-messaging-kafka (4)" />
+        <module name="tacocloud-messaging-rabbitmq (4)" />
+        <module name="taco-cloud-sd-cassandra" />
+        <module name="rsocket-channel-server" />
+        <module name="tacocloud (1)" />
+        <module name="tacocloud-domain (4)" />
+        <module name="tacocloud-kitchen-r2dbc" />
+        <module name="auth-server" />
+        <module name="tacocloud-security (2)" />
+        <module name="tacocloud-domain-r2dbc" />
+        <module name="tacocloud-messaging-jms (3)" />
+        <module name="tacocloud-email (1)" />
+        <module name="reactor-fun" />
+        <module name="tacocloud-data-mongodb (3)" />
+        <module name="tacocloud-api (5)" />
+        <module name="tacocloud-web-mongodb" />
+        <module name="tacocloud-domain (1)" />
+        <module name="tacocloud-kitchen (3)" />
+        <module name="tacocloud-data (4)" />
+        <module name="tacocloud-messaging-jms-mongodb" />
+        <module name="rsocket-reqres-client-ws" />
+        <module name="tacocloud-security-r2dbc" />
+        <module name="tacocloud-messaging-noop-r2dbc" />
+        <module name="tacocloud-ui-r2dbc" />
+        <module name="taco-cloud-sd-jdbc" />
+        <module name="tacocloud-messaging-jms (2)" />
+        <module name="tacocloud-kitchen-mongodb" />
+        <module name="tacocloud-email-mongodb" />
+        <module name="tacocloud-web (1)" />
+        <module name="tacocloud-api (6)" />
+        <module name="tacocloud-domain (2)" />
+        <module name="tacocloud-kitchen (2)" />
+        <module name="rsocket-reqstream-server" />
+        <module name="tacocloud-ui (1)" />
+        <module name="tacocloud-data-r2dbc" />
+        <module name="tacocloud-messaging-jms (1)" />
+        <module name="taco-cloud-sd-jpa" />
+        <module name="tacocloud-messaging-noop (3)" />
+        <module name="tacocloud-mongodb" />
+        <module name="tacocloud-restclient (6)" />
+        <module name="taco-cloud-sd-mongodb" />
+        <module name="tacocloud-restclient-r2dbc" />
+        <module name="admin-server (2)" />
+        <module name="tacocloud-data (2)" />
+        <module name="tacocloud-messaging-rabbitmq (1)" />
+        <module name="rsocket-fireandforget-server" />
+        <module name="tacocloud-ui (2)" />
+        <module name="tacocloud (6)" />
+        <module name="tacocloud-security (5)" />
+        <module name="tacocloud-restclient-mongodb" />
+        <module name="tacocloud-messaging-noop (2)" />
+        <module name="taco-cloud (4)" />
+        <module name="rsocket-channel-client" />
+        <module name="tacocloud-r2dbc" />
+        <module name="rsocket-reqres-client" />
+        <module name="tacocloud-web (3)" />
+        <module name="tacocloud-web-r2dbc" />
+        <module name="tacocloud-restclient (5)" />
+        <module name="tacocloud (5)" />
+        <module name="rsocket-reqstream-client" />
+        <module name="tacocloud-data (3)" />
+        <module name="taco-cloud-jdbctemplate" />
+        <module name="tacocloud-kitchen (4)" />
+        <module name="tacocloud-api-mongodb" />
+        <module name="tacocloud-ui (3)" />
+        <module name="taco-cloud (2)" />
+        <module name="tacocloud-messaging-rabbitmq-mongodb" />
+        <module name="tacocloud-messaging-kafka-r2dbc" />
+        <module name="tacocloud-messaging-rabbitmq-r2dbc" />
+        <module name="tacocloud-security (6)" />
+        <module name="tacocloud-api (1)" />
+        <module name="tacocloud-messaging-jms-r2dbc" />
+        <module name="taco-cloud (3)" />
+        <module name="tacocloud-messaging-noop (1)" />
+        <module name="tacocloud-messaging-kafka (1)" />
+        <module name="tacocloud-restclient (4)" />
+        <module name="tacocloud-domain-mongodb (1)" />
+        <module name="tacocloud-web (2)" />
+        <module name="tacocloud (4)" />
+        <module name="tacocloud-messaging-rabbitmq (3)" />
+        <module name="tacocloud-web (6)" />
+        <module name="tacocloud-data-mongodb (1)" />
+        <module name="tacocloud-security-mongodb" />
+        <module name="taco-cloud (1)" />
+        <module name="tacocloud-ui (4)" />
+        <module name="tacocloud-security (3)" />
+        <module name="tacocloud-api (2)" />
+        <module name="tacocloud-email (2)" />
+        <module name="taco-cloud-sfc" />
+        <module name="tacocloud-messaging-noop-mongodb" />
+        <module name="tacocloud-data-mongodb (2)" />
+        <module name="tacocloud-messaging-kafka (2)" />
+        <module name="tacocloud-domain-mongodb (2)" />
+        <module name="tacocloud-restclient (3)" />
+        <module name="tacocloud-email-r2dbc" />
+        <module name="admin-server (1)" />
+        <module name="tacocloud (3)" />
+        <module name="tacocloud-web (5)" />
+        <module name="tacocloud-messaging-rabbitmq (2)" />
+        <module name="tacocloud-data (1)" />
+        <module name="tacocloud-ui (5)" />
+        <module name="rsocket-reqres-server-ws" />
+        <module name="tacocloud-messaging-kafka-mongodb" />
+        <module name="tacocloud-security (4)" />
+        <module name="tacocloud-email (3)" />
+        <module name="hello-reactive" />
+        <module name="tacocloud-jmx" />
+        <module name="tacocloud-api (3)" />
+        <module name="tacocloud-messaging-kafka (3)" />
+        <module name="tacocloud-web (4)" />
+        <module name="tacocloud-restclient (2)" />
+        <module name="tacocloud-api-r2dbc" />
+        <module name="tacocloud-domain-mongodb (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-server (1)" options="-parameters" />
+      <module name="admin-server (2)" options="-parameters" />
+      <module name="auth-server" options="-parameters" />
+      <module name="hello-reactive" options="-parameters" />
+      <module name="reactor-fun" options="-parameters" />
+      <module name="rsocket-channel-client" options="-parameters" />
+      <module name="rsocket-channel-server" options="-parameters" />
+      <module name="rsocket-fireandforget-client" options="-parameters" />
+      <module name="rsocket-fireandforget-server" options="-parameters" />
+      <module name="rsocket-reqres-client" options="-parameters" />
+      <module name="rsocket-reqres-client-ws" options="-parameters" />
+      <module name="rsocket-reqres-server" options="-parameters" />
+      <module name="rsocket-reqres-server-ws" options="-parameters" />
+      <module name="rsocket-reqstream-client" options="-parameters" />
+      <module name="rsocket-reqstream-server" options="-parameters" />
+      <module name="taco-cloud (1)" options="-parameters" />
+      <module name="taco-cloud (2)" options="-parameters" />
+      <module name="taco-cloud (3)" options="-parameters" />
+      <module name="taco-cloud (4)" options="-parameters" />
+      <module name="taco-cloud-jdbctemplate" options="-parameters" />
+      <module name="taco-cloud-sd-cassandra" options="-parameters" />
+      <module name="taco-cloud-sd-jdbc" options="-parameters" />
+      <module name="taco-cloud-sd-jpa" options="-parameters" />
+      <module name="taco-cloud-sd-mongodb" options="-parameters" />
+      <module name="taco-cloud-sfc" options="-parameters" />
+      <module name="tacocloud (1)" options="-parameters" />
+      <module name="tacocloud (2)" options="-parameters" />
+      <module name="tacocloud (3)" options="-parameters" />
+      <module name="tacocloud (4)" options="-parameters" />
+      <module name="tacocloud (5)" options="-parameters" />
+      <module name="tacocloud (6)" options="-parameters" />
+      <module name="tacocloud-admin" options="-parameters" />
+      <module name="tacocloud-api (1)" options="-parameters" />
+      <module name="tacocloud-api (2)" options="-parameters" />
+      <module name="tacocloud-api (3)" options="-parameters" />
+      <module name="tacocloud-api (4)" options="-parameters" />
+      <module name="tacocloud-api (5)" options="-parameters" />
+      <module name="tacocloud-api (6)" options="-parameters" />
+      <module name="tacocloud-api-mongodb" options="-parameters" />
+      <module name="tacocloud-api-r2dbc" options="-parameters" />
+      <module name="tacocloud-data (1)" options="-parameters" />
+      <module name="tacocloud-data (2)" options="-parameters" />
+      <module name="tacocloud-data (3)" options="-parameters" />
+      <module name="tacocloud-data (4)" options="-parameters" />
+      <module name="tacocloud-data-mongodb (1)" options="-parameters" />
+      <module name="tacocloud-data-mongodb (2)" options="-parameters" />
+      <module name="tacocloud-data-mongodb (3)" options="-parameters" />
+      <module name="tacocloud-data-r2dbc" options="-parameters" />
+      <module name="tacocloud-domain (1)" options="-parameters" />
+      <module name="tacocloud-domain (2)" options="-parameters" />
+      <module name="tacocloud-domain (3)" options="-parameters" />
+      <module name="tacocloud-domain (4)" options="-parameters" />
+      <module name="tacocloud-domain-mongodb (1)" options="-parameters" />
+      <module name="tacocloud-domain-mongodb (2)" options="-parameters" />
+      <module name="tacocloud-domain-mongodb (3)" options="-parameters" />
+      <module name="tacocloud-domain-r2dbc" options="-parameters" />
+      <module name="tacocloud-email (1)" options="-parameters" />
+      <module name="tacocloud-email (2)" options="-parameters" />
+      <module name="tacocloud-email (3)" options="-parameters" />
+      <module name="tacocloud-email-mongodb" options="-parameters" />
+      <module name="tacocloud-email-r2dbc" options="-parameters" />
+      <module name="tacocloud-jmx" options="-parameters" />
+      <module name="tacocloud-kitchen (1)" options="-parameters" />
+      <module name="tacocloud-kitchen (2)" options="-parameters" />
+      <module name="tacocloud-kitchen (3)" options="-parameters" />
+      <module name="tacocloud-kitchen (4)" options="-parameters" />
+      <module name="tacocloud-kitchen-mongodb" options="-parameters" />
+      <module name="tacocloud-kitchen-r2dbc" options="-parameters" />
+      <module name="tacocloud-messaging-jms (1)" options="-parameters" />
+      <module name="tacocloud-messaging-jms (2)" options="-parameters" />
+      <module name="tacocloud-messaging-jms (3)" options="-parameters" />
+      <module name="tacocloud-messaging-jms (4)" options="-parameters" />
+      <module name="tacocloud-messaging-jms-mongodb" options="-parameters" />
+      <module name="tacocloud-messaging-jms-r2dbc" options="-parameters" />
+      <module name="tacocloud-messaging-kafka (1)" options="-parameters" />
+      <module name="tacocloud-messaging-kafka (2)" options="-parameters" />
+      <module name="tacocloud-messaging-kafka (3)" options="-parameters" />
+      <module name="tacocloud-messaging-kafka (4)" options="-parameters" />
+      <module name="tacocloud-messaging-kafka-mongodb" options="-parameters" />
+      <module name="tacocloud-messaging-kafka-r2dbc" options="-parameters" />
+      <module name="tacocloud-messaging-noop (1)" options="-parameters" />
+      <module name="tacocloud-messaging-noop (2)" options="-parameters" />
+      <module name="tacocloud-messaging-noop (3)" options="-parameters" />
+      <module name="tacocloud-messaging-noop-mongodb" options="-parameters" />
+      <module name="tacocloud-messaging-noop-r2dbc" options="-parameters" />
+      <module name="tacocloud-messaging-rabbitmq (1)" options="-parameters" />
+      <module name="tacocloud-messaging-rabbitmq (2)" options="-parameters" />
+      <module name="tacocloud-messaging-rabbitmq (3)" options="-parameters" />
+      <module name="tacocloud-messaging-rabbitmq (4)" options="-parameters" />
+      <module name="tacocloud-messaging-rabbitmq-mongodb" options="-parameters" />
+      <module name="tacocloud-messaging-rabbitmq-r2dbc" options="-parameters" />
+      <module name="tacocloud-mongodb" options="-parameters" />
+      <module name="tacocloud-r2dbc" options="-parameters" />
+      <module name="tacocloud-restclient (1)" options="-parameters" />
+      <module name="tacocloud-restclient (2)" options="-parameters" />
+      <module name="tacocloud-restclient (3)" options="-parameters" />
+      <module name="tacocloud-restclient (4)" options="-parameters" />
+      <module name="tacocloud-restclient (5)" options="-parameters" />
+      <module name="tacocloud-restclient (6)" options="-parameters" />
+      <module name="tacocloud-restclient-mongodb" options="-parameters" />
+      <module name="tacocloud-restclient-r2dbc" options="-parameters" />
+      <module name="tacocloud-security (1)" options="-parameters" />
+      <module name="tacocloud-security (2)" options="-parameters" />
+      <module name="tacocloud-security (3)" options="-parameters" />
+      <module name="tacocloud-security (4)" options="-parameters" />
+      <module name="tacocloud-security (5)" options="-parameters" />
+      <module name="tacocloud-security (6)" options="-parameters" />
+      <module name="tacocloud-security-mongodb" options="-parameters" />
+      <module name="tacocloud-security-r2dbc" options="-parameters" />
+      <module name="tacocloud-ui (1)" options="-parameters" />
+      <module name="tacocloud-ui (2)" options="-parameters" />
+      <module name="tacocloud-ui (3)" options="-parameters" />
+      <module name="tacocloud-ui (4)" options="-parameters" />
+      <module name="tacocloud-ui (5)" options="-parameters" />
+      <module name="tacocloud-ui (6)" options="-parameters" />
+      <module name="tacocloud-ui-mongodb" options="-parameters" />
+      <module name="tacocloud-ui-r2dbc" options="-parameters" />
+      <module name="tacocloud-web (1)" options="-parameters" />
+      <module name="tacocloud-web (2)" options="-parameters" />
+      <module name="tacocloud-web (3)" options="-parameters" />
+      <module name="tacocloud-web (4)" options="-parameters" />
+      <module name="tacocloud-web (5)" options="-parameters" />
+      <module name="tacocloud-web (6)" options="-parameters" />
+      <module name="tacocloud-web-mongodb" options="-parameters" />
+      <module name="tacocloud-web-r2dbc" options="-parameters" />
+    </option>
+  </component>
+</project>
